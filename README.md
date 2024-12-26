@@ -1,0 +1,1 @@
+This is a Billiards game I made with pygame as practice for simulating collisions between circular objects. The collisions assume that all of the balls, including the white one, have the same mass. The game also uses a path tracing algorithm to predict the trajectories of balls, however it is very buggy and assumes that all of the balls are perfectly still.
